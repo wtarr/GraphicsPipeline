@@ -1,0 +1,2 @@
+A class project that simiulates some of the steps involved in the graphics pipeline.  The focus here was given
+to line clipping that ensures that a line falls within the boundaries -1 <= x <= 1  && -1 <= y <= 1 using breshams algorithm. 
